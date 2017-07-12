@@ -30,5 +30,3 @@ The program outputs gems such as these:
 ```
 
 It's not perfect (how do you pronounce Tfda?) but I'm pretty happy with how it turned out.
-
-This project contains two parts - analysing a word list (if you want to try a different word list, or a different language), and generating the address.
